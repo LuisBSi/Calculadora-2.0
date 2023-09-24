@@ -1,3 +1,3 @@
-Calculadora | Versão 2.0\n
-Criado por LuisBSI\n
+Calculadora | Versão 2.0 
+Criado por LuisBSI 
 Primeiro Projeto :)
