@@ -1,0 +1,50 @@
+{
+  "rows":6,
+  "cols":4,
+  "cnf": {
+    "mainFrame": {
+      "bg": "#090e14"
+    },
+    "historicoFrame": {
+      "bg": "#192029"
+    },
+    "historicoText": {
+      "bg": "#192029",
+      "fg":"white",
+      "font":"Arial 20 bold",
+      "state":"disabled"
+    },
+    "btn": {
+      "bg": "#182536",
+      "fg": "white",
+      "activebackground": "gray",
+      "font": "Arial 15 bold",
+      "borderwidth": 0
+    },
+    "0_9_btn": {
+      "bg": "#1f3147",
+      "fg": "white",
+      "activebackground": "gray",
+      "font": "Arial 15 bold",
+      "borderwidth": 0
+    },
+    "main_entry": {
+      "bg": "#090e14",
+      "fg": "white",
+      "font": "Arial 20 bold",
+      "borderwidth": 0
+    },
+    "sec_entry": {
+      "bg": "#090e14",
+      "fg": "gray",
+      "font": "Arial 10 bold",
+      "borderwidth": 0
+    },
+    "menu": {
+      "bg": "#090e14",
+      "fg": "white",
+      "font": "Arial 15 bold",
+      "borderwidth": 4
+    }
+  }
+}
